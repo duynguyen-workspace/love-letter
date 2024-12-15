@@ -2,6 +2,17 @@
 
 This project displays a romantic and festive Christmas-themed love letter using **HTML**, **CSS**, and **JavaScript**. Perfect for surprising someone special this holiday season! ❤️
 
+## 📸 **Preview**
+
+Here's an example of the final result:
+
+<div style="display: flex; justify-content: center;">
+   <img style="width: 50%" src="./assets/envelope.png" alt="Envelope">
+   <img style="width: 50%" src="./assets/letter.png" alt="Love-Letter">
+</div>
+
+
+
 ## ✨ **Features**
 - 💖 Beautiful and responsive layout for all devices.  
 - 🎨 Smooth animations for a cozy and romantic feel.  
