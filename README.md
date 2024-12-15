@@ -42,7 +42,7 @@ Here's an example of the final result:
 
 ## 💡 **Customization**
 
-You can personalize the letter's content in the **index.html** file:
+You can personalize the letter's content in the **letter.html** file:
   ```bash
   <p><strong>Gửi em...</strong></p>
   <p>Noel này lạnh ghê nhỉ, mà anh nghĩ có em đi cùng chắc ấm hơn nhiều đó!</p>
