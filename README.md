@@ -1,4 +1,4 @@
-# 💌 **Christmas Love Letter** 🎄
+# 💌 **Christmas Confessing Love Letter** 🎄
 
 This project displays a romantic and festive Christmas-themed love letter using **HTML**, **CSS**, and **JavaScript**. Perfect for surprising someone special this holiday season! ❤️
 
@@ -7,8 +7,8 @@ This project displays a romantic and festive Christmas-themed love letter using 
 Here's an example of the final result:
 
 <div style="display: flex; justify-content: center;">
-   <img src="./assets/envelope.png" alt="Envelope">
-   <img src="./assets/letter.png" alt="Love-Letter">
+   <img src="./screenshots/envelope.png" alt="Envelope">
+   <img src="./screenshots/letter.png" alt="Love-Letter">
 </div>
 
 
