@@ -7,8 +7,8 @@ This project displays a romantic and festive Christmas-themed love letter using 
 Here's an example of the final result:
 
 <div style="display: flex; justify-content: center;">
-   <img style="width: 50%" src="./assets/envelope.png" alt="Envelope">
-   <img style="width: 50%" src="./assets/letter.png" alt="Love-Letter">
+   <img src="./assets/envelope.png" alt="Envelope">
+   <img src="./assets/letter.png" alt="Love-Letter">
 </div>
 
 
